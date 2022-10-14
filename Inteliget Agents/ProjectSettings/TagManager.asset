@@ -3,7 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Villager
+  - FoodSource
+  - Fire
+  - Target
+  - House
+  - WoodSource
+  - RockSource
+  - Rock
+  - Status
+  - Wood
+  - Tree
+  - Food
+  - Water
+  - WaterSource
+  - Health
+  - Hunger
+  - Thirst
+  - Sleep
+  - Recreation
+  - Speak
   layers:
   - Default
   - TransparentFX
