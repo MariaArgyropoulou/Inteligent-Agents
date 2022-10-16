@@ -27,7 +27,7 @@ MonoBehaviour:
     HoldItemPrefab: {fileID: 1000010004241426, guid: ad3b2f45225bb0c4f8f80eacd5111af1, type: 3}
     DestroyTargetAfterComplete: 0
   NavigationParams:
-    NavigationSpeed: 3.5
+    NavigationSpeed: 5
     CostFactor: 3.5
     AnimParams:
       Animation: 
