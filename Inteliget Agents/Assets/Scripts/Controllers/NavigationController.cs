@@ -128,8 +128,8 @@ public class NavigationController : MonoBehaviour
             Invoke(nameof(SetDestination), UpdateInterval);
 
             // Debug
-            if (SimulationManager.Instance.Mode == SimMode.Debug)
-                Debug.Log($"<color=Ivory>Destination Set: {path.corners[path.corners.Length-1]}</color>");
+            /*if (SimulationManager.Instance.Mode == SimMode.Debug)
+                Debug.Log($"<color=Ivory>Destination Set: {path.corners[path.corners.Length-1]}</color>");*/
 
         }
         else
